@@ -1,2 +1,2 @@
 # Data-manipulater
-Data manipulater application made as a challenge to IGTI
+A node application using the FS library for file manipulation
